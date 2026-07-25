@@ -1,0 +1,8 @@
+openai>=1.100.0
+jiwer>=4.0.0
+pandas>=2.2.0
+Pillow>=11.0.0
+python-dotenv>=1.1.0
+requests>=2.32.0
+numpy>=2.3.0
+tqdm>=4.67.0
