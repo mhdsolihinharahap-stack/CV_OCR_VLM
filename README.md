@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Run the project:
 
 ```bash
-python main.py
+py main.py
 ```
 
 ## 📊 Evaluation
@@ -81,7 +81,7 @@ The project uses Indonesian License Plate datasets for evaluation and testing.
 **Muhammad Solihin Harahap**
 
 - Politeknik Negeri Batam
-- Computer Vision & AI Research
+- Computer Vision 
 - GitHub: https://github.com/mhdsolihinharahap-stack
 
 ## 📄 License
