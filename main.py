@@ -17,7 +17,7 @@ client = OpenAI(
 )
 
 
-MODEL = "Qwen3-VL-2B-Instruct-GGUF"
+MODEL = "qwen3-vl-2b-instruct"
 
 
 
